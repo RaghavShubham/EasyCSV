@@ -1,10 +1,12 @@
 ## Easy CSV
+#### Demo
+[EasyCSV](https://easy-csv-raghavshubham.vercel.app/)
 
-#### What is a .csv file
+### What is a .csv file
 
 .csv file format is a simple text-based format for storing and exchanging data in plain text, which makes it easy to read and write
 
-#### What are we trying to build
+### What are we trying to build
 
 Easy CSV is a tool that is built to enable the users to easily upload a csv and map it to a specified database structure.
 
@@ -18,10 +20,13 @@ _Note:_ We can select multiple fields to be added to one column and they will be
 
 It also enables the user to download the mapped and the uploaded data in a csv format.
 
-#### Instructions to Run
+### Instructions to Run
 
 1.  Clone the repository
 2.  Open terminal in the root directory
 3.  Run `npm install` to install all the necessary dependencies.
 4.  Run `npm start` to run the application
 5.  Visit `localhost:3000` in the browser.
+
+### Screenshots
+![image](https://github.com/RaghavShubham/EasyCSV/assets/43434615/a1c3df22-7483-4c61-a608-853fd81ffc39)
