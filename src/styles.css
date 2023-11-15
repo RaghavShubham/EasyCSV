@@ -1,0 +1,65 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 16px 5%;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  padding: 8px 16px;
+  border: 1px solid green;
+  box-shadow: none;
+  background-color: rgb(9, 153, 9);
+  border-radius: 8px;
+  margin: 20px 0px 0px 20px;
+  min-width: 250px;
+  color: #f6f6f6;
+  font-weight: 600;
+}
+
+.flex {
+  display: flex;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  border: 1px solid rgb(77, 77, 77);
+  border-radius: 10px;
+}
+
+tr {
+  border-bottom: 1px solid rgb(128, 128, 128);
+}
+tr:nth-child(odd) {
+  background-color: rgba(130, 255, 130, 0.377);
+}
+
+td {
+  padding: 4px 4px 10px;
+  min-width: 100px;
+}
+
+select {
+  min-width: 250px;
+  margin-bottom: 10px;
+}
+
+select option:checked {
+  background: rgba(130, 255, 130, 0.377);
+}
+
+form {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+form > div > div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
