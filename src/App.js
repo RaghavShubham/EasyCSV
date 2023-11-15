@@ -95,7 +95,7 @@ const App = () => {
       )}
       {mappedDataBase.length > 0 && (
         <>
-          <h2>Mapped Data</h2>
+          <h2>Mapped Database</h2>
           <table>
             <thead>
               <tr>
