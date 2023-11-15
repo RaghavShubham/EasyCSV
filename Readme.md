@@ -30,3 +30,9 @@ It also enables the user to download the mapped and the uploaded data in a csv f
 
 ### Screenshots
 ![image](https://github.com/RaghavShubham/EasyCSV/assets/43434615/a1c3df22-7483-4c61-a608-853fd81ffc39)
+
+### Scope for ChatGPT integration
+
+1.  To provide guidance and interaction to user.
+2.  For handling Errors and user queries to ease the CSV upload process.
+3.  Suggesting mapping options, like all csv fields with name can be listed under the name column to start with and an **auto mapping** feature for future.
